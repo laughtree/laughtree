@@ -12,3 +12,4 @@
   <p>打算再深入學一些Html和css</p>
   <p>同時學習JavaScript和SQL</p>
   <p>嘗試寫出一個簡單的個人部落格網站</p>
+  <p>以後有機會也想研究一下electron</p>
