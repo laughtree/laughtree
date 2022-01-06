@@ -13,3 +13,16 @@
   <p>同時學習JavaScript和SQL</p>
   <p>嘗試寫出一個簡單的個人部落格網站</p>
   <p>以後有機會也想研究一下electron</p>
+  <HR style="border:3 double black" WIDTH=100% SIZE=10 NOSHADE> </HR>
+<p>English ver</p>
+<p>sorry,I'm poor at English :( </p>
+<h1>About me</h1>
+  <p>I'm Smiletree AKA Laughtree</p>
+  <p>Currently learning web backend coding and prepare for APCS</p>
+  <p>These years I have tried to learn basic of C++,Python,Java,Html and CSS by books,course and friends' help</p>
+  <p>But I don't have a specialize langauge now</p>
+  <h2>Future plan</h2>
+  <p>I want to learn more about Html and CSS</p>
+  <p>And learn JavaScript and SQL</p>
+  <p>Make a small blog with these</p>
+  <p>If possible,also want to learn Electron</p>
