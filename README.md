@@ -1,6 +1,5 @@
 <h1>來個簡單的自我介紹</h1>
   <p>我是笑樹 aka Smile tree 有時候也會叫laughtree</p>
-  <p>最近在學習網頁後端製作與練習APCS題目</p>
   <p>這2年來藉由興趣、課程、朋友幫助、書籍，將C++、Python、Java、Html、css的入門都摸過了一遍</p>
   <p>尚未有專精的語言</p>
   <p>C++在高一時的程式必修學了基礎，在朋友的協助下繼續學習</p>
@@ -15,10 +14,9 @@
   <p>以後有機會也想研究一下electron</p>
   <HR style="border:3 double black" WIDTH=100% SIZE=10 NOSHADE> </HR>
 <p>English ver</p>
-<p>sorry,I'm poor at English :( </p>
+<p>I'm not really good at English.If you find some mistakes,please tell me. </p>
 <h1>About me</h1>
   <p>I'm Smiletree AKA Laughtree</p>
-  <p>Currently learning web backend coding and prepare for APCS</p>
   <p>These years I have tried to learn basic of C++,Python,Java,Html and CSS by books,course and friends' help</p>
   <p>But I don't have a specialize langauge now</p>
   <h2>Future plan</h2>
